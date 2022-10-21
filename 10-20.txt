@@ -1,0 +1,24 @@
+$ cd /tpm
+$ pwd
+$ date
+$ cd /home
+$ pwd
+$ ls -i
+$ mkdir PRUEBA
+$ mkdir dir1 dir2 dir3
+$ mkdir mensaje
+$ cp mensaje /dir1 /dir2 /dir3
+$ ls -R PRUEBA
+
+
+
+
+
+
+
+
+
+
+
+
+
