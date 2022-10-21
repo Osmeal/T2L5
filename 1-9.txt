@@ -1,0 +1,9 @@
+$ ls bin
+$ cd /tmp
+$ ls /tmp | grep ^[t] | sort -r
+$ ls /dev/tty??
+$ ls tty*[1-4] o ls tty*[1,2,3,4]
+$ ls t*C1
+$ ls -l / 
+$ ls [^t]*
+$ cd /usr
